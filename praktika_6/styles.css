@@ -1,0 +1,1910 @@
+ body {
+	margin: 0;
+	padding: 0;
+	width: 80%;
+ }
+ html 
+ { 
+ overflow-x: hidden; 
+ }
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1600px;
+	 height: 1880px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #HEADERHOLE 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 155px;
+	 z-index:1;
+} 
+
+
+
+ #Layer20 
+{ 
+	 left: 0px; 
+	 top: 139px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 51px;
+	 z-index:3;
+} 
+
+ #Layer5copy 
+{ 
+	 left: 0px; 
+	 top: 1385px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 163px;
+	 z-index:4;
+} 
+
+ #Layer3 
+{ 
+	 left: 0px; 
+	 top: 163px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 1494px;
+	 z-index:5;
+} 
+
+ #Layer3copy2 
+{ 
+	 left: 0px; 
+	 top: 163px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 1494px;
+	 z-index:6;
+} 
+
+ #Layer4 
+{ 
+	 left: 1px; 
+	 top: 156px; 
+	 position: absolute; 
+	 width: 1599px;
+	 height: 7px;
+	 z-index:7;
+} 
+
+ #backgroundSLIDERcopi 
+{ 
+	 left: 0px; 
+	 top: 156px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 6px;
+	 z-index:8;
+} 
+
+ #textlomo 
+{ 
+	 left: 0px; 
+	 top: 153px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 9px;
+	 z-index:9;
+} 
+
+ #Shape12copy 
+{ 
+	 left: 344px; 
+	 top: 104px; 
+	 position: absolute; 
+	 width: 909px;
+	 height: 36px;
+	 z-index:10;
+} 
+
+ #Shape12copy2 
+{ 
+	 left: -9px; 
+	 top: 104px; 
+	 position: absolute; 
+	 width: 1622px;
+	 height: 36px;
+	 z-index:11;
+} 
+.list-menu li
+{
+display: block;
+float:left;
+height: 20px;
+color: #FFF;
+font-size: 16px;
+padding: 0px 0px 0 30px;
+text-transform: uppercase;
+cursor: pointer;
+}
+
+.list-menu li:hover
+{
+background-color:#02a8f6;
+}
+.MAINLAYOUTSGALLERY 
+
+{
+left: 398px; 
+	 top: 100px; 
+	 position: absolute; 
+	 width: 802px;
+	 height: 10px;
+	 z-index:12;
+}
+
+
+/* #MAINLAYOUTSGALLERY 
+{ 
+	 left: 398px; 
+	 top: 117px; 
+	 position: absolute; 
+	 width: 802px;
+	 height: 14px;
+	 z-index:12;
+} */
+
+ #Layer6 
+{ 
+	 left: 0px; 
+	 top: 160px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 4px;
+	 z-index:13;
+} 
+
+ #Shape8 
+{ 
+	 left: 1201px; 
+	 top: 210px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 21px;
+	 z-index:14;
+} 
+
+ #Layer17 
+{ 
+	 left: 1210px; 
+	 top: 219px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 5px;
+	 z-index:15;
+} 
+
+ #O 
+{ 
+	 left: 1223px; 
+	 top: 216px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 11px;
+	 z-index:16;
+} 
+
+ #Shape12 
+{ 
+	 left: 913px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 270px;
+	 height: 36px;
+	 z-index:17;
+} 
+
+ #BD 
+{ 
+	 left: 1155px; 
+	 top: 39px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 23px;
+	 z-index:18;
+} 
+
+ #Shape12copy3 
+{ 
+	 left: 1192px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 61px;
+	 z-index:19;
+} 
+
+ #V 
+{ 
+	 left: 1225px; 
+	 top: 65px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 19px;
+	 z-index:20;
+} 
+
+ #RSS 
+{ 
+	 left: 1202px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 16px;
+	 z-index:21;
+} 
+
+ #Tw 
+{ 
+	 left: 1228px; 
+	 top: 43px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 16px;
+	 z-index:22;
+} 
+
+ #fb 
+{ 
+	 left: 1205px; 
+	 top: 43px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 16px;
+	 z-index:23;
+} 
+
+ #Marvin 
+{ 
+	 left: 400px; 
+	 top: 40px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 29px;
+	 z-index:24;
+} 
+
+ #Marvincopy 
+{ 
+	 left: 400px; 
+	 top: 38px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 30px;
+	 z-index:25;
+} 
+
+ #Marvin_0 
+{ 
+	 left: 400px; 
+	 top: 40px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 29px;
+	 z-index:26;
+} 
+
+ #Marvincopy2 
+{ 
+	 left: 400px; 
+	 top: 40px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 29px;
+	 z-index:27;
+} 
+
+ #BACKLOGO 
+{ 
+	 left: 345px; 
+	 top: 35px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 42px;
+	 z-index:28;
+} 
+
+ #BACKLOGOcopy2 
+{ 
+	 left: 348px; 
+	 top: 36px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:29;
+} 
+
+ #BACKLOGOcopy 
+{ 
+	 left: 348px; 
+	 top: 38px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:30;
+} 
+
+ #Layer19 
+{ 
+	 left: 345px; 
+	 top: 38px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 41px;
+	 z-index:31;
+} 
+
+ #M 
+{ 
+	 left: 356px; 
+	 top: 47px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 18px;
+	 z-index:32;
+} 
+
+ #TOP 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 15px;
+	 z-index:33;
+} 
+
+ #SHINEScopy 
+{ 
+	 left: 319px; 
+	 top: 14px; 
+	 position: absolute; 
+	 width: 961px;
+	 height: 75px;
+	 z-index:34;
+} 
+
+ #shcopy 
+{ 
+	 left: 325px; 
+	 top: 480px; 
+	 position: absolute; 
+	 width: 948px;
+	 height: 38px;
+	 z-index:35;
+} 
+
+ #Shape10 
+{ 
+	 left: 344px; 
+	 top: 186px; 
+	 position: absolute; 
+	 width: 909px;
+	 height: 318px;
+	 z-index:36;
+} 
+/*
+ #layer_1 
+{ 
+	 left: 349px; 
+	 top: 190px; 
+	 position: absolute; 
+	 width: 899px;
+	 height: 312px;
+	 z-index:37;
+} 
+
+ #layer_2 
+{ 
+	 left: 350px; 
+	 top: 190px; 
+	 position: absolute; 
+	 width: 898px;
+	 height: 312px;
+	 z-index:38;
+} 
+
+ #layer_3 
+{ 
+	 left: 350px; 
+	 top: 192px; 
+	 position: absolute; 
+	 width: 898px;
+	 height: 308px;
+	 z-index:39;
+} 
+
+ #layer_4 
+{ 
+	 left: 350px; 
+	 top: 192px; 
+	 position: absolute; 
+	 width: 898px;
+	 height: 310px;
+	 z-index:40;
+} 
+
+ #layer_5 
+{ 
+	 left: 350px; 
+	 top: 192px; 
+	 position: absolute; 
+	 width: 898px;
+	 height: 308px;
+	 z-index:41;
+} */
+
+ #BDcopy2 
+{ 
+	 left: 1239px; 
+	 top: 333px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 23px;
+	 z-index:42;
+} 
+
+ #Layer18 
+{ 
+	 left: 1248px; 
+	 top: 340px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 10px;
+	 z-index:43;
+} 
+
+ #BDcopy2_0 
+{ 
+	 left: 337px; 
+	 top: 333px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 23px;
+	 z-index:44;
+} 
+
+ #Layer18_0 
+{ 
+	 left: 345px; 
+	 top: 340px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 10px;
+	 z-index:45;
+} 
+
+ #Shape10copy 
+{ 
+	 left: 345px; 
+	 top: 530px; 
+	 position: absolute; 
+	 width: 909px;
+	 height: 1022px;
+	 z-index:46;
+} 
+
+ #wcopy3 
+{ 
+	 left: 351px; 
+	 top: 536px; 
+	 position: absolute; 
+	 width: 898px;
+	 height: 1011px;
+	 z-index:47;
+} 
+
+ #Shape10copy2 
+{ 
+	 left: 574px; 
+	 top: 573px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 66px;
+	 z-index:48;
+} 
+
+ #wcopy4 
+{ 
+	 left: 580px; 
+	 top: 579px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:49;
+} 
+
+ #Layer4_0 
+{ 
+	 left: 585px; 
+	 top: 584px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 48px;
+	 z-index:50;
+} 
+
+ #FeaturedItems 
+{ 
+	 left: 420px; 
+	 top: 591px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 36px;
+	 z-index:51;
+} 
+
+ #Fuscerutrumluctusfel 
+{ 
+	 left: 379px; 
+	 top: 665px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 63px;
+	 z-index:52;
+} 
+
+ #Shape10copy3 
+{ 
+	 left: 376px; 
+	 top: 756px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 103px;
+	 z-index:53;
+} 
+
+ #wcopy5 
+{ 
+	 left: 383px; 
+	 top: 763px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 90px;
+	 z-index:54;
+} 
+
+ #3copy 
+{ 
+	 left: 383px; 
+	 top: 763px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 90px;
+	 z-index:55;
+} 
+
+ #layer_56 
+{ 
+	 left: 494px; 
+	 top: 795px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 30px;
+	 z-index:56;
+} 
+
+ #Shape10copy2_0 
+{ 
+	 left: 864px; 
+	 top: 573px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 66px;
+	 z-index:57;
+} 
+
+ #wcopy4_0 
+{ 
+	 left: 870px; 
+	 top: 579px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:58;
+} 
+
+ #Layer21 
+{ 
+	 left: 881px; 
+	 top: 583px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 48px;
+	 z-index:59;
+} 
+
+ #WORKINGCONTACTFORM 
+{ 
+	 left: 708px; 
+	 top: 591px; 
+	 position: absolute; 
+	 width: 143px;
+	 height: 36px;
+	 z-index:60;
+} 
+
+ #Fuscerutrumluctusfel_0 
+{ 
+	 left: 669px; 
+	 top: 665px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 65px;
+	 z-index:61;
+} 
+
+ #Shape10copy3_0 
+{ 
+	 left: 666px; 
+	 top: 756px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 103px;
+	 z-index:62;
+} 
+
+ #1copy 
+{ 
+	 left: 673px; 
+	 top: 763px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 90px;
+	 z-index:63;
+} 
+
+ #layer_64 
+{ 
+	 left: 784px; 
+	 top: 795px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 30px;
+	 z-index:64;
+} 
+
+ #BDcopy4 
+{ 
+	 left: 670px; 
+	 top: 590px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:65;
+} 
+
+ #Shape10copy2_1 
+{ 
+	 left: 1155px; 
+	 top: 573px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 66px;
+	 z-index:66;
+} 
+
+ #wcopy4_1 
+{ 
+	 left: 1161px; 
+	 top: 579px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:67;
+} 
+
+ #Layer22 
+{ 
+	 left: 1176px; 
+	 top: 583px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 48px;
+	 z-index:68;
+} 
+
+ #100GUIELEMENTS 
+{ 
+	 left: 1001px; 
+	 top: 591px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 36px;
+	 z-index:69;
+} 
+
+ #Fuscerutrumluctusfel_1 
+{ 
+	 left: 960px; 
+	 top: 665px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 65px;
+	 z-index:70;
+} 
+
+ #Shape10copy3_1 
+{ 
+	 left: 957px; 
+	 top: 756px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 103px;
+	 z-index:71;
+} 
+
+ #2copy 
+{ 
+	 left: 964px; 
+	 top: 763px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 90px;
+	 z-index:72;
+} 
+
+ #layer_73 
+{ 
+	 left: 1075px; 
+	 top: 795px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 30px;
+	 z-index:73;
+} 
+
+ #Shape10copy2_2 
+{ 
+	 left: 574px; 
+	 top: 884px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 66px;
+	 z-index:74;
+} 
+
+ #wcopy4_2 
+{ 
+	 left: 580px; 
+	 top: 890px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:75;
+} 
+
+ #Layer4_1 
+{ 
+	 left: 585px; 
+	 top: 895px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 48px;
+	 z-index:76;
+} 
+
+ #FeaturedItems_0 
+{ 
+	 left: 420px; 
+	 top: 902px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 36px;
+	 z-index:77;
+} 
+
+ #Fuscerutrumluctusfel_2 
+{ 
+	 left: 379px; 
+	 top: 976px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 63px;
+	 z-index:78;
+} 
+
+ #Shape10copy3_2 
+{ 
+	 left: 376px; 
+	 top: 1067px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 103px;
+	 z-index:79;
+} 
+
+ #1copy2 
+{ 
+	 left: 383px; 
+	 top: 1074px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 90px;
+	 z-index:80;
+} 
+
+ #layer_81 
+{ 
+	 left: 494px; 
+	 top: 1106px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 30px;
+	 z-index:81;
+} 
+
+ #BDcopy6 
+{ 
+	 left: 380px; 
+	 top: 900px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:82;
+} 
+
+ #Shape10copy2_3 
+{ 
+	 left: 864px; 
+	 top: 884px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 66px;
+	 z-index:83;
+} 
+
+ #wcopy4_3 
+{ 
+	 left: 870px; 
+	 top: 890px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:84;
+} 
+
+ #Layer21_0 
+{ 
+	 left: 881px; 
+	 top: 894px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 48px;
+	 z-index:85;
+} 
+
+ #WORKINGCONTACTFORM_0 
+{ 
+	 left: 708px; 
+	 top: 902px; 
+	 position: absolute; 
+	 width: 143px;
+	 height: 36px;
+	 z-index:86;
+} 
+
+ #Fuscerutrumluctusfel_3 
+{ 
+	 left: 669px; 
+	 top: 976px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 65px;
+	 z-index:87;
+} 
+
+ #Shape10copy3_3 
+{ 
+	 left: 666px; 
+	 top: 1067px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 103px;
+	 z-index:88;
+} 
+
+ #2copy2 
+{ 
+	 left: 673px; 
+	 top: 1074px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 90px;
+	 z-index:89;
+} 
+
+ #layer_90 
+{ 
+	 left: 784px; 
+	 top: 1106px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 30px;
+	 z-index:90;
+} 
+
+ #BDcopy6_0 
+{ 
+	 left: 670px; 
+	 top: 900px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:91;
+} 
+
+ #Shape10copy2_4 
+{ 
+	 left: 1155px; 
+	 top: 884px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 66px;
+	 z-index:92;
+} 
+
+ #wcopy4_4 
+{ 
+	 left: 1161px; 
+	 top: 890px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 55px;
+	 z-index:93;
+} 
+
+ #Layer22_0 
+{ 
+	 left: 1176px; 
+	 top: 894px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 48px;
+	 z-index:94;
+} 
+
+ #100GUIELEMENTS_0 
+{ 
+	 left: 1001px; 
+	 top: 902px; 
+	 position: absolute; 
+	 width: 84px;
+	 height: 36px;
+	 z-index:95;
+} 
+
+ #Fuscerutrumluctusfel_4 
+{ 
+	 left: 960px; 
+	 top: 976px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 65px;
+	 z-index:96;
+} 
+
+ #Shape10copy3_4 
+{ 
+	 left: 957px; 
+	 top: 1067px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 103px;
+	 z-index:97;
+} 
+
+ #3copy2 
+{ 
+	 left: 964px; 
+	 top: 1074px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 90px;
+	 z-index:98;
+} 
+
+ #layer_99 
+{ 
+	 left: 1075px; 
+	 top: 1106px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 30px;
+	 z-index:99;
+} 
+
+ #BDcopy6_1 
+{ 
+	 left: 961px; 
+	 top: 900px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:100;
+} 
+
+ #2SEARCH 
+{ 
+	 left: 717px; 
+	 top: 1438px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 33px;
+	 z-index:101;
+} 
+
+ #3USER 
+{ 
+	 left: 772px; 
+	 top: 1437px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 33px;
+	 z-index:102;
+} 
+
+ #1IDEA 
+{ 
+	 left: 715px; 
+	 top: 1302px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 31px;
+	 z-index:103;
+} 
+
+ #Fuscerutrumluctusfel_5 
+{ 
+	 left: 718px; 
+	 top: 1357px; 
+	 position: absolute; 
+	 width: 456px;
+	 height: 65px;
+	 z-index:104;
+} 
+
+ #WritedbybyADMINonAug 
+{ 
+	 left: 750px; 
+	 top: 1321px; 
+	 position: absolute; 
+	 width: 212px;
+	 height: 11px;
+	 z-index:105;
+} 
+
+ #WORDPRESSTHEMESHOCKO 
+{ 
+	 left: 422px; 
+	 top: 1241px; 
+	 position: absolute; 
+	 width: 493px;
+	 height: 36px;
+	 z-index:106;
+} 
+
+ #Shape10copy3_5 
+{ 
+	 left: 462px; 
+	 top: 1302px; 
+	 position: absolute; 
+	 width: 175px;
+	 height: 173px;
+	 z-index:107;
+} 
+
+ #Layer31copy 
+{ 
+	 left: 469px; 
+	 top: 1309px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 10px;
+	 z-index:108;
+} 
+
+ #Shape13 
+{ 
+	 left: 1039px; 
+	 top: 1433px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 48px;
+	 z-index:109;
+} 
+
+ #readmore 
+{ 
+	 left: 1049px; 
+	 top: 1453px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 11px;
+	 z-index:110;
+} 
+
+ #BACKLOGOcopy3 
+{ 
+	 left: 1136px; 
+	 top: 1437px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:111;
+} 
+
+ #BACKLOGOcopy4 
+{ 
+	 left: 1136px; 
+	 top: 1439px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:112;
+} 
+
+ #BACKLOGOcopy5 
+{ 
+	 left: 1143px; 
+	 top: 1445px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:113;
+} 
+
+ #BACKLOGOcopy6 
+{ 
+	 left: 1143px; 
+	 top: 1447px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:114;
+} 
+
+ #Layer18copy 
+{ 
+	 left: 1152px; 
+	 top: 1453px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 10px;
+	 z-index:115;
+} 
+
+ #BDcopy3 
+{ 
+	 left: 380px; 
+	 top: 590px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:116;
+} 
+
+ #BDcopy5 
+{ 
+	 left: 961px; 
+	 top: 590px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:117;
+} 
+
+ #Shape13copy2 
+{ 
+	 left: 346px; 
+	 top: 593px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 48px;
+	 z-index:118;
+} 
+
+ #3USERcopy 
+{ 
+	 left: 357px; 
+	 top: 605px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 22px;
+	 z-index:119;
+} 
+
+ #layer_72 
+{ 
+	 left: 391px; 
+	 top: 610px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 16px;
+	 z-index:120;
+} 
+
+ #WritedbybyADMINonAug_0 
+{ 
+	 left: 457px; 
+	 top: 614px; 
+	 position: absolute; 
+	 width: 212px;
+	 height: 11px;
+	 z-index:121;
+} 
+
+ #BDcopy8 
+{ 
+	 left: 432px; 
+	 top: 610px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:122;
+} 
+
+ #shcopy3 
+{ 
+	 left: 385px; 
+	 top: 654px; 
+	 position: absolute; 
+	 width: 558px;
+	 height: 12px;
+	 z-index:123;
+} 
+
+ #Fuscerutrumluctusfel_6 
+{ 
+	 left: 392px; 
+	 top: 777px; 
+	 position: absolute; 
+	 width: 538px;
+	 height: 65px;
+	 z-index:124;
+} 
+
+ #WORDPRESSTHEMESHOCKO_0 
+{ 
+	 left: 389px; 
+	 top: 702px; 
+	 position: absolute; 
+	 width: 493px;
+	 height: 36px;
+	 z-index:125;
+} 
+
+ #Shape10copy4 
+{ 
+	 left: 392px; 
+	 top: 894px; 
+	 position: absolute; 
+	 width: 497px;
+	 height: 4px;
+	 z-index:126;
+} 
+
+ #Shape13_0 
+{ 
+	 left: 795px; 
+	 top: 871px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 48px;
+	 z-index:127;
+} 
+
+ #readmore_0 
+{ 
+	 left: 805px; 
+	 top: 891px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 11px;
+	 z-index:128;
+} 
+
+ #BACKLOGOcopy3_0 
+{ 
+	 left: 892px; 
+	 top: 875px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:129;
+} 
+
+ #BACKLOGOcopy4_0 
+{ 
+	 left: 892px; 
+	 top: 877px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:130;
+} 
+
+ #BACKLOGOcopy5_0 
+{ 
+	 left: 899px; 
+	 top: 883px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:131;
+} 
+
+ #BACKLOGOcopy6_0 
+{ 
+	 left: 899px; 
+	 top: 885px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:132;
+} 
+
+ #Layer18copy_0 
+{ 
+	 left: 908px; 
+	 top: 891px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 10px;
+	 z-index:133;
+} 
+
+ #Shape13copy2_0 
+{ 
+	 left: 346px; 
+	 top: 964px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 48px;
+	 z-index:134;
+} 
+
+ #3USERcopy_0 
+{ 
+	 left: 357px; 
+	 top: 976px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 22px;
+	 z-index:135;
+} 
+
+ #layer_49 
+{ 
+	 left: 390px; 
+	 top: 981px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 16px;
+	 z-index:136;
+} 
+
+ #WritedbybyADMINonAug_1 
+{ 
+	 left: 457px; 
+	 top: 985px; 
+	 position: absolute; 
+	 width: 212px;
+	 height: 11px;
+	 z-index:137;
+} 
+
+ #BDcopy8_0 
+{ 
+	 left: 432px; 
+	 top: 981px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:138;
+} 
+
+ #shcopy3_0 
+{ 
+	 left: 385px; 
+	 top: 1025px; 
+	 position: absolute; 
+	 width: 558px;
+	 height: 12px;
+	 z-index:139;
+} 
+
+ #Fuscerutrumluctusfel_7 
+{ 
+	 left: 392px; 
+	 top: 1148px; 
+	 position: absolute; 
+	 width: 538px;
+	 height: 65px;
+	 z-index:140;
+} 
+
+ #100guielementsandhou 
+{ 
+	 left: 391px; 
+	 top: 1073px; 
+	 position: absolute; 
+	 width: 221px;
+	 height: 36px;
+	 z-index:141;
+} 
+
+ #Shape10copy4_0 
+{ 
+	 left: 392px; 
+	 top: 1265px; 
+	 position: absolute; 
+	 width: 497px;
+	 height: 4px;
+	 z-index:142;
+} 
+
+ #Shape13_1 
+{ 
+	 left: 795px; 
+	 top: 1242px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 48px;
+	 z-index:143;
+} 
+
+ #readmore_1 
+{ 
+	 left: 805px; 
+	 top: 1262px; 
+	 position: absolute; 
+	 width: 77px;
+	 height: 11px;
+	 z-index:144;
+} 
+
+ #BACKLOGOcopy3_1 
+{ 
+	 left: 892px; 
+	 top: 1246px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:145;
+} 
+
+ #BACKLOGOcopy4_1 
+{ 
+	 left: 892px; 
+	 top: 1248px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:146;
+} 
+
+ #BACKLOGOcopy5_1 
+{ 
+	 left: 899px; 
+	 top: 1254px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:147;
+} 
+
+ #BACKLOGOcopy6_1 
+{ 
+	 left: 899px; 
+	 top: 1256px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 22px;
+	 z-index:148;
+} 
+
+ #Layer18copy_1 
+{ 
+	 left: 908px; 
+	 top: 1262px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 10px;
+	 z-index:149;
+} 
+
+ #shcopy2 
+{ 
+	 left: 994px; 
+	 top: 824px; 
+	 position: absolute; 
+	 width: 265px;
+	 height: 36px;
+	 z-index:150;
+} 
+
+ #Shape10copy_0 
+{ 
+	 left: 1000px; 
+	 top: 587px; 
+	 position: absolute; 
+	 width: 254px;
+	 height: 260px;
+	 z-index:151;
+} 
+
+ #Layer36 
+{ 
+	 left: 1216px; 
+	 top: 594px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 4px;
+	 z-index:152;
+} 
+
+ #BDcopy9 
+{ 
+	 left: 1225px; 
+	 top: 591px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 9px;
+	 z-index:153;
+} 
+
+ #wcopy3_0 
+{ 
+	 left: 1004px; 
+	 top: 598px; 
+	 position: absolute; 
+	 width: 246px;
+	 height: 246px;
+	 z-index:154;
+} 
+
+ #calendar 
+{ 
+	 left: 1077px; 
+	 top: 620px; 
+	 position: absolute; 
+	 width: 93px;
+	 height: 14px;
+	 z-index:155;
+} 
+
+ #AUGUST2011 
+{ 
+	 left: 1082px; 
+	 top: 664px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 9px;
+	 z-index:156;
+} 
+
+ #layer_157 
+{ 
+	 left: 1036px; 
+	 top: 814px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 9px;
+	 z-index:157;
+} 
+
+ #M6132027 
+{ 
+	 left: 1037px; 
+	 top: 698px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 99px;
+	 z-index:158;
+} 
+
+ #T7142128 
+{ 
+	 left: 1065px; 
+	 top: 698px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 99px;
+	 z-index:159;
+} 
+
+ #W18152229 
+{ 
+	 left: 1094px; 
+	 top: 698px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 99px;
+	 z-index:160;
+} 
+
+ #T29162330 
+{ 
+	 left: 1122px; 
+	 top: 698px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 99px;
+	 z-index:161;
+} 
+
+ #F310172431 
+{ 
+	 left: 1150px; 
+	 top: 698px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 99px;
+	 z-index:162;
+} 
+
+ #S4111825 
+{ 
+	 left: 1179px; 
+	 top: 698px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 81px;
+	 z-index:163;
+} 
+
+ #S5121926 
+{ 
+	 left: 1207px; 
+	 top: 698px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 81px;
+	 z-index:164;
+} 
+
+ #sh 
+{ 
+	 left: 0px; 
+	 top: 1570px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 78px;
+	 z-index:165;
+} 
+
+ #Layer3copy 
+{ 
+	 left: 0px; 
+	 top: 1609px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 271px;
+	 z-index:166;
+} 
+
+ #Layer4copy 
+{ 
+	 left: 0px; 
+	 top: 1602px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 7px;
+	 z-index:167;
+} 
+
+ #backgroundSLIDERcopi_0 
+{ 
+	 left: 0px; 
+	 top: 1603px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 6px;
+	 z-index:168;
+} 
+
+ #textlomocopy 
+{ 
+	 left: 0px; 
+	 top: 1603px; 
+	 position: absolute; 
+	 width: 1599px;
+	 height: 6px;
+	 z-index:169;
+} 
+
+ #Shape12copy4 
+{ 
+	 left: -9px; 
+	 top: 1686px; 
+	 position: absolute; 
+	 width: 1622px;
+	 height: 36px;
+	 z-index:170;
+} 
+
+ #MagicwebsitesWelcome 
+{ 
+	 left: 425px; 
+	 top: 1752px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 80px;
+	 z-index:171;
+} 
+
+ #Category1Category2Ca 
+{ 
+	 left: 734px; 
+	 top: 1754px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 81px;
+	 z-index:172;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 1008px; 
+	 top: 1759px; 
+	 position: absolute; 
+	 width: 238px;
+	 height: 64px;
+	 z-index:173;
+} 
+
+ #RecentPost 
+{ 
+	 left: 426px; 
+	 top: 1699px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 14px;
+	 z-index:174;
+} 
+
+ #Youwontneedprogrammi 
+{ 
+	 left: 675px; 
+	 top: 1653px; 
+	 position: absolute; 
+	 width: 545px;
+	 height: 13px;
+	 z-index:175;
+} 
+
+ #CATEGORIES 
+{ 
+	 left: 734px; 
+	 top: 1699px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 14px;
+	 z-index:176;
+} 
+
+ #COPYRIGHT 
+{ 
+	 left: 1005px; 
+	 top: 1699px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 14px;
+	 z-index:177;
+} 
+
+ #Marvin_1 
+{ 
+	 left: 399px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 29px;
+	 z-index:178;
+} 
+
+ #Marvincopy_0 
+{ 
+	 left: 399px; 
+	 top: 1637px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 30px;
+	 z-index:179;
+} 
+
+ #Marvin_2 
+{ 
+	 left: 399px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 29px;
+	 z-index:180;
+} 
+
+ #Marvincopy2_0 
+{ 
+	 left: 399px; 
+	 top: 1639px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 29px;
+	 z-index:181;
+} 
+
+ #BACKLOGO_0 
+{ 
+	 left: 344px; 
+	 top: 1634px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 42px;
+	 z-index:182;
+} 
+
+ #BACKLOGOcopy2_0 
+{ 
+	 left: 347px; 
+	 top: 1635px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:183;
+} 
+
+ #BACKLOGOcopy_0 
+{ 
+	 left: 347px; 
+	 top: 1637px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:184;
+} 
+
+ #Layer19_0 
+{ 
+	 left: 344px; 
+	 top: 1637px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 41px;
+	 z-index:185;
+} 
+
+ #M_0 
+{ 
+	 left: 355px; 
+	 top: 1646px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 18px;
+	 z-index:186;
+} 
+
+ #BDcopy7 
+{ 
+	 left: 1232px; 
+	 top: 1651px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:187;
+} 

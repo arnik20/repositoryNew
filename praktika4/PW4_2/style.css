@@ -1,0 +1,41 @@
+a:link {
+	color: #990000;
+	font-weight: 100;
+	text-decoration: none;
+}
+a:hover {
+	color: #ff0033;
+	font-weight: bold;
+	text-decoration: underline;
+}
+a:active {
+	color: #CC9933;
+	font-weight: bold;
+	text-decoration: underline;
+	background-color: #000099;
+}
+a:visited {
+	color: #CC9933; font-weight: 100;text-decoration: none;
+}
+ol{
+    font-size:20px;   
+}
+h1 {
+    text-align: center;
+}
+h2{
+   text-align: center;
+    color: maroon;
+}
+li{
+   
+    list-style-position: outside;
+    margin-left: 200pt;
+    font-size: 25px;
+}
+ul{
+     font-family: sans-serif;
+}
+body{
+    background-image: url(http://www.2fons.ru/download.php?file=201406/1366x768/2fons.ru-16024.jpg); background-size: 100%;
+}

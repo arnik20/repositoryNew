@@ -1,0 +1,79 @@
+*
+{
+margin:0;
+padding:0;
+}
+
+body
+{
+background-color:#FFF;
+}
+ p
+ {
+text-indent: 20px;
+line-height: 20px;
+font-size: 16px; 
+ }
+.account-menu
+{
+	width: 60%;
+	height: 50px;
+	margin:0 auto;
+}
+.logo
+{
+ width: 60%;
+ height: 150px;
+ margin: 0 auto;
+}
+.logo h1
+{
+color: #006400;
+font-size: 36px;
+font-family:'RacingSansOneRegular';
+font-weight: bold;
+font-style: italic;
+padding-top: 35px;
+margin-bottom: 40px;
+}
+ .header
+ {
+height: 200px;
+width:100%;
+background-color:#000e19;
+ }
+ 
+.menu
+{
+	height: 68px;
+ width: 100%;
+ background: url(image/stil.png) repeat-x;
+}
+.list-menu li
+{
+display: block;
+float:left;
+height: 40px;
+color: #FFF;
+font-size: 16px;
+padding: 20px 15px 0 15px;
+text-transform: uppercase;
+cursor: pointer;
+}
+.list-menu li:hover
+{
+background-color:#02a8f6;
+}
+ 
+
+h2
+{
+color: black;
+font-size: 30px;
+margin-bottom: 30px;
+}
+
+
+
+
+ 

@@ -1,0 +1,9 @@
+table
+{
+    text-align: center;
+}
+td {
+    background: #13F584; /* Цвет фона */
+    border: 1px solid  blue; /* Граница вокруг ячеек */
+    padding: 5px; /* Поля в ячейках */ 
+   }
