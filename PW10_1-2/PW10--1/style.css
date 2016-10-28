@@ -1,0 +1,28 @@
+table
+{
+    text-align: center;
+	border-collapse: collapse; /* Убираем двойные линии между ячейками */
+}
+td {
+    padding: 6px; /* Поля в ячейках */ 
+   }
+
+   tr:hover
+{
+	padding: 10px;
+	border: 1px solid white;
+	border-collapse: collapse;
+	background-color: gray;
+}
+.VvV
+{
+	
+	border: 1px solid black;
+}
+.VvV:hover
+{
+	padding: 5px;
+	border: 1px solid black;
+	border-collapse: collapse;
+	background-color: white;
+}
